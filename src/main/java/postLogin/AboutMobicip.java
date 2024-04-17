@@ -34,7 +34,7 @@ public class AboutMobicip extends baseClass{
 		d.findElement(By.xpath(element)).click();
 	}
 	
-    //Checking for the title of home page and About mobicip page
+    //Checking for the title of home page and About mobicip page.
 	@Test(priority=1)
 	public void a1_homepage()
 	{
